@@ -72,7 +72,6 @@ J2 - 3.5mm jack
 
  ![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
 
- ![pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.pdf)
 
 # Code and Software:
 
