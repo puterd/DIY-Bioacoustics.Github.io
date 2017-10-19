@@ -65,11 +65,10 @@ Our question is, then, how can this acoustic and neuromuscular information be or
 # Hardware + Schematics: 
 
 ![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.jpg)
+![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
+![sensor_pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.jpg)
 
- ![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
- ![sensor_pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.jpg)
- 
- BOM: 
+BOM: 
 
 R1 - 5M
 R2 - 150k
