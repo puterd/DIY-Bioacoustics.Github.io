@@ -49,15 +49,35 @@ Insects are vectors of diseases while also pollinating a large proportion of the
 Our aim is to contribute to ongoing research into insect recognition and ecosystems by applying bioacoustics and machine learning to insect recognition and to the democratisation of scientific research by creating an open source, diy and hackable acoustic sensor for identification of various insect species. The final sensor would be non-invasive, weatherproof and wireless and would link to a dashboard, displaying visually the patterns and statistics gathered which could eventually be linked to and open data structure such as wiki data for sharing information about various environments throughout the world. In the first phase of development we will be using already available kits on the market for rapid prototyping and proof of concept. The second step will be creating a custom PCB which would fit all of the necessary components and circuitry. On the software side, we will be relying on open source projects, such as SuperCollider.
 We hope that our research will contribute to the development of the use of bioacoustics in the study of insect ecosystems while also furthering the democratisation of science.
 
-# Hardware: 
+# Hardware + Schematics: 
 
 ![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.jpg)
+
+BOM: 
+
+R1 - 5M
+R2 - 150k
+R3 - 100k
+R4, R5 - 1k
+R6 - 1M
+
+C1 - 10u
+
+U1 - TLC2902
+
+MISC:
+T1 - 10M trimmer
+J1 - piezoelectric disc
+J2 - 3.5mm jack
+
+![breadboard] (https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
+
+![sensor_pcb] (https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.pdf)
 
 # Code and Software:
 
 # License: 
 
-# Schematics:
 
 
 # Further Background:
