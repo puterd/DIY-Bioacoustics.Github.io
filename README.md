@@ -1,7 +1,45 @@
-# Eavesdropping-on-Nature-DIY-Bioacoustics
+## Story
+
+# Authors: 
+
+Alice Potts
+
+![Alice](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Alice.jpg)
+
+Minwoo Kim
+
+![Minwoo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Minwoo.jpg)
+
+Filippo Sanzeni
+
+![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Filippo.jpg)
+
+Davin Browner Conaty
+
+![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Davin.jpg)
+
+
+# Synopsis
+
 
 Eavesdropping on Nature: DIY Bioacoustics is a project focussed on the fruitful entanglement of design, science, sound and the public sphere. Our goals are to advance both design and science by “thinking about the future of science in the context of design–as well as design in the context of science” (Ito, 2016) and to prototype the process in a way which is in accordance with open source and DIY methodologies.
+
 We are developing an open source and DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers through the different calls they make in order to monitor crop health. The sensor could also be utilised by citizen scientists, farmers and visual artists/computational designers.
+
+
+![Leafhopper](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Leafhopper.jpg)
+
+# Hardware: 
+
+# Code and Software
+
+# License 
+
+# Schematics
+
+
+
+
 
 # Project Summary and Scientific Basis:
 We will be developing an open source and DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers, to monitor crop health remotely. The sensor/service could also be utilised by citizen scientists, farmers and visual artists/computational designers.
