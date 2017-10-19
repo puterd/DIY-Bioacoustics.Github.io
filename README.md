@@ -4,7 +4,7 @@
 
 Alice Potts
 
-![Alice](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Alice.jpg)
+![Alice](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22635033_10159674572470554_1015735572_n.jpg)
 
 Minwoo Kim
 
