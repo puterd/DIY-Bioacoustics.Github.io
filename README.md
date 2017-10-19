@@ -12,7 +12,7 @@ Minwoo Kim
 
 Filippo Sanzeni
 
-![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/filippo.png)
+![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/AAEAAQAAAAAAAAVYAAAAJGY3NjJiYzQ1LWIyMGItNDlmZC1hNTc0LTUyODZhYTcxM2E1OA.jpg)
 
 Davin Browner Conaty
 
