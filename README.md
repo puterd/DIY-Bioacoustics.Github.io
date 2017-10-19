@@ -22,7 +22,7 @@ Davin Browner Conaty
 
 John Innes Centre: 
 
-![JIC](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Jic.jpg)
+![JIC](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/JIC---White-background.jpg)
 
 
 
