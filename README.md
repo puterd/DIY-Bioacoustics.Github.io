@@ -18,6 +18,13 @@ Davin Browner Conaty
 
 ![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Davin.jpg)
 
+# Collaborators: 
+
+John Innes Centre: 
+
+![JIC](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Jic.jpg)
+
+
 
 # Synopsis:
 
@@ -44,6 +51,8 @@ We hope that our research will contribute to the development of the use of bioac
 
 # Hardware: 
 
+![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.jpg)
+
 # Code and Software:
 
 # License: 
@@ -62,7 +71,8 @@ A crucial part of the development of this media ecological system is prototyping
 
 ![Project Summary](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Overview.jpg)
 
-# Methodologies for Linking Real Design and Real Science:
+# Methodologies for Linking Design and Science:
+
 The project is being approached through an antidisciplinary design framework. The production of the sensor will rely on entangling bioacoustics, citizen science, open source and diy technological development and public science.
 
 # Anti-Disciplinarity:
@@ -74,8 +84,10 @@ Interdisciplinarity is vital to achieving breakthrough work across disciplines. 
 Bioacoustics, or acoustic ecology, is the mapping of biological ecosystems through sound. It presents the opportunity to listen to but also eavesdrop on nature and one of its central ideas is:
 
 *Diversity in the soundscape = diversity in the landscape.*
+
 Our collaborators at the John Innes Centre for Plant and Microbial Sciences are studying how leafhoppers communicate information between one another, by vibrating plants. More specifically, they are interested in how leafhoppers change their acoustic behaviour when residing on plants adversely affected by the bacteria Phytoplasma? In other words, how it might be possible for leafhoppers to communicate the health of plant ecosystems to humans.
 What is apparent in the communicative behaviour of the leafhopper and the plant substrates it communicates through is a kind of “ecological exformation” from the perspective of human perception. This is to say that the acoustic interaction between the plant and the leafhopper is an unknown in the tuneable reality of the human ear. Using technology, we can eavesdrop on this communication in order to uncover vital information about the health of ecosystems, which might be utilised by the farmer, citizen, observer, scientist or custodians of local parks and wildlife. It becomes vital information, shared between anything that attends to it.
+
 Our aim is to build the potential for a DIY sensor for biologists which will use sound to identify and track different species of leafhoppers in order to facilitate the translation and exchange of vital information. We hope that aspects of this media system can ultimately be used by farmers to monitor plant or animal health remotely, in visual art or computational design projects or by citizen scientists.
 
 # Citizen Science and DIY:
@@ -84,13 +96,15 @@ Equally important to our project is the notion of citizen science (the practice 
 *Science = A routine activity that is open to anyone.*
 
 A central part of our vision of citizen science and DIY is the idea that scientific technologies should be made publicly available and actionable. We think that this is done by developing biological technologies in a way so that they are approachable, co-designed and linked to a continuing process of knowledge sharing and exchange. The DIY movement, through its principle that the basis of decision making is always better when it's made by the people who are directly impacted by that decision making, provides an interesting practical framework for citizen science. In this sense, both the DIY movement and citizen science, are radically anti-disciplinary; consistently asking questions like: What constitutes knowledge? Who’s authorised to validate knowledge? As well as: how to make, build things and conduct experiments?
-Our aim is to fuse these great traditions and make scientific technology actionable for as diverse a set of people as is possible. The goal is to open the “black box” of research by promoting scientific literacy, relocating the site of research away from institutions and opening up the scientific method to the multiple cultures of exchange that exist in society. We see a number of key anti-disciplinary methodologies in this process:
-Open and radical consent to learn in public, embracing bodies of knowledge beyond our own field Discarding or revising our own conceptions of our respective fields, Performing, not mastering a subject so that points of new interoperability can open up within it The full inclusion of as many diverse voices in the design process as possible.
-A crucial part of the development of this is prototyping the experience with members of the public as well as with lab scientists, artists, designers and farmers. We are proposing an open source prototyping, to take place in a temporary design lab, where members of the public interact with the acoustic information generated by various species of Leafhopper. This way they can discover how to use bioacoustics to experience ecological systems and develop the tools and knowledge to take bioacoustics research further than we ever could.
+
+Our aim is to fuse these great traditions and make scientific technology actionable for as diverse a set of people as is possible. The goal is to open the “black box” of research by promoting scientific literacy, relocating the site of research away from institutions and opening up the scientific method to the multiple cultures of exchange that exist in society. 
+
 
 # Science In Public:
 By the measure that imitation is the most sincere form of flattery it's clear that humans have an, often undervalued, love for the sonic qualities of insects. Our aural and emotional response to insects is evident in the onomatopoeia of the word “buzz” to the influence of the cricket in compositions like Béla Bartók’s solo piano piece: “The Night’s Music”. Bartók was an amateur entomologist, owning a large collection of beetles and flies, and his marrying of scientific curiosity and entertainment is something that we want to replicate in our lab.
+
 A combination of hard science, serious play, sound and the empowering force of DIY and citizen science means that both design and science can be understood and absorbed by people external to the design process. We think that through sonifying and DIY-ing the study of insect behaviour as a form of entertainment, provided by nature and contextualised by culture, we can create an experience that can be re-utilised and expanded. In effect, we will achieve our goal of increasing engagement with ecological systems by opening the door to everyday sonic experience of ecological sound.
+
 The aim then, returning to the leafhopper, is to enable people to whistle a tune that has never been whistled before; to understand, in a qualitative sense, the acoustic structure and polyphony of ecological systems that surround us.
 
 # Bibliography:
