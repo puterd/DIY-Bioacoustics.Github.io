@@ -4,25 +4,25 @@
 
 Alice Potts
 
-![Alice](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22635033_10159674572470554_1015735572_n.JPG)
+![Alice](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22635033_10159674572470554_1015735572_n.jpg)
 
 Minwoo Kim
 
-![Minwoo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Minwoo%2BKim.JPG)
+![Minwoo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Minwoo%2BKim.jpg)
 
 Filippo Sanzeni
 
-![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/AAEAAQAAAAAAAAVYAAAAJGY3NjJiYzQ1LWIyMGItNDlmZC1hNTc0LTUyODZhYTcxM2E1OA.JPG)
+![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/AAEAAQAAAAAAAAVYAAAAJGY3NjJiYzQ1LWIyMGItNDlmZC1hNTc0LTUyODZhYTcxM2E1OA.jpg)
 
 Davin Browner Conaty
 
-![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22447373_791137924400541_1585141808_n.JPG)
+![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22447373_791137924400541_1585141808_n.jpg)
 
 # Collaborators: 
 
 John Innes Centre: 
 
-![JIC](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/JIC---White-background.JPG)
+![JIC](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/JIC---White-background.jpg)
 
 
 
@@ -31,12 +31,12 @@ John Innes Centre:
 
 Eavesdropping on Nature: DIY Bioacoustics is a project focussed on the fruitful entanglement of design, science, sound and the public sphere. Our goals are to advance both design and science by “thinking about the future of science in the context of design–as well as design in the context of science” (Ito, 2016) and to prototype the process in a way which is in accordance with open source and DIY methodologies.
 
-![Project Summary](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Overview.JPG)
+![Project Summary](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Overview.jpg)
 
 We are developing an open source and DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers through the different calls they make in order to monitor crop health. The sensor could also be utilised by citizen scientists, farmers and visual artists/computational designers.
 
 
-![Leafhopper](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/2383551818_4a9235daee_o.JPG)
+![Leafhopper](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/2383551818_4a9235daee_o.jpg)
 
 # Scientific Basis:
 
@@ -64,9 +64,9 @@ Our question is, then, how can this acoustic and neuromuscular information be or
 
 # Hardware + Schematics: 
 
-![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.JPG)
-![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.JPG)
-![sensor_pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.JPG)
+![setup](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/setup.jpg)
+![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
+![sensor_pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.jpg)
 
 BOM: 
 
@@ -120,7 +120,7 @@ The project is being approached through an antidisciplinary design framework. Th
 # Anti-Disciplinarity:
 Interdisciplinarity is vital to achieving breakthrough work across disciplines. Interdisciplinary work is when a group of people from different disciplines work together, while anti-disciplinary work is a process which temporarily or permanently suspends existing knowledge structures in order to facilitate the creation of something innovative and new. Anti-Disciplinarity is “about working in spaces that simply do not fit into any existing academic discipline” (Ito, 2016).
 
-![Framework](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/antiD.JPG)
+![Framework](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/antiD.jpg)
 
 # Bioacoustics:
 Bioacoustics, or acoustic ecology, is the mapping of biological ecosystems through sound. It presents the opportunity to listen to but also eavesdrop on nature and one of its central ideas is:
