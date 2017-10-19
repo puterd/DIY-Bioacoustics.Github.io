@@ -1,6 +1,5 @@
 # Eavesdropping-on-Nature-DIY-Bioacoustics
 
-Eavesdropping-on-Nature-DIY-Bioacoustics
 Eavesdropping on Nature: DIY Bioacoustics is a project focussed on the fruitful entanglement of design, science, sound and the public sphere. Our goals are to advance both design and science by “thinking about the future of science in the context of design–as well as design in the context of science” (Ito, 2016) and to prototype the process in a way which is in accordance with open source and DIY methodologies.
 We are developing an open source and DIY sensor/service for biologists, using sound recordings to identify and track different species of leafhoppers through the different calls they make in order to monitor crop health. The sensor could also be utilised by citizen scientists, farmers and visual artists/computational designers.
 
@@ -27,7 +26,7 @@ The project is being approached through an antidisciplinary design framework. Th
 # Anti-Disciplinarity:
 Interdisciplinarity is vital to achieving breakthrough work across disciplines. Interdisciplinary work is when a group of people from different disciplines work together, while anti-disciplinary work is a process which temporarily or permanently suspends existing knowledge structures in order to facilitate the creation of something innovative and new. Anti-Disciplinarity is “about working in spaces that simply do not fit into any existing academic discipline” (Ito, 2016).
 
-![Framework](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/antiD.jpg)
+![Framework](github.com/davincb/DIY-Bioacoustics.Github.io/antiD.jpg)
 
 # Bioacoustics:
 Bioacoustics, or acoustic ecology, is the mapping of biological ecosystems through sound. It presents the opportunity to listen to but also eavesdrop on nature and one of its central ideas is:
