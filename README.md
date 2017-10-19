@@ -8,15 +8,15 @@ Alice Potts
 
 Minwoo Kim
 
-![Minwoo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Minwoo.jpg)
+![Minwoo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Minwoo%2BKim.jpg)
 
 Filippo Sanzeni
 
-![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Filippo.jpg)
+![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/filippo.png)
 
 Davin Browner Conaty
 
-![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Davin.jpg)
+![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22447373_791137924400541_1585141808_n.jpg)
 
 # Collaborators: 
 
