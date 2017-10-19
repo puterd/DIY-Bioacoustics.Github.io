@@ -70,9 +70,9 @@ T1 - 10M trimmer
 J1 - piezoelectric disc
 J2 - 3.5mm jack
 
-![breadboard] (https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
+ ![breadboard](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/breadboard.jpg)
 
-![sensor_pcb] (https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.pdf)
+ ![pcb](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Hardware/sensor_pcb.pdf)
 
 # Code and Software:
 
