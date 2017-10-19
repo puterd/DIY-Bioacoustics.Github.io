@@ -51,7 +51,7 @@ We hope that our research will contribute to the development of the use of bioac
 # Schematics:
 
 
-# Further Background and Our Methodological Basis for Linking Design and Science:
+# Further Background:
 
 Human interpretations of insects are subject to what (Whaley, 2006) calls the deception of dissimulation (the hiding of the real). They are interpreted as swarm-like templates for technologies or as having a kind of language for example. This is the product of a constant human impulse to interpret animal behaviour on terms which are already intelligible to us. We cannot move outside of this intelligibility and as a result, have a tendency to create approximations of identity through myth or compromise. These compromises are a kind of useful fake.
 
@@ -62,7 +62,7 @@ A crucial part of the development of this media ecological system is prototyping
 
 ![Project Summary](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/Overview.jpg)
 
-# Methodologies:
+# Methodologies for Linking Real Design and Real Science:
 The project is being approached through an antidisciplinary design framework. The production of the sensor will rely on entangling bioacoustics, citizen science, open source and diy technological development and public science.
 
 # Anti-Disciplinarity:
