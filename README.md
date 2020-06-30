@@ -14,7 +14,7 @@ Filippo Sanzeni
 
 ![Filippo](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/AAEAAQAAAAAAAAVYAAAAJGY3NjJiYzQ1LWIyMGItNDlmZC1hNTc0LTUyODZhYTcxM2E1OA.jpg)
 
-Davin Browner Conaty
+Davin Browner 
 
 ![Davin](https://github.com/Davincb/DIY-Bioacoustics.Github.io/blob/master/22447373_791137924400541_1585141808_n.jpg)
 
@@ -79,7 +79,7 @@ J2 - 3.5mm jack
 
 MIT License
 
-Copyright (c) [2017] [Davin Browner Conaty, Minwoo Kim, Filippo Sanzeni, Alice Potts]
+Copyright (c) [2017] [Davin Browner, Minwoo Kim, Filippo Sanzeni, Alice Potts]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
